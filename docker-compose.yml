@@ -1,0 +1,4 @@
+build:
+        build: .
+        volumes:
+                - ./Cataclysm-DDA:/cata/Cataclysm-DDA
